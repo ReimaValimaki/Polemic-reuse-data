@@ -1,0 +1,1825 @@
+Appendix A: The works and editions used in the BLAST input.
+The list is not in an alphabetical order. 
+
+
+author: Petrus Alfonsi
+title: Dialogus contra Iudaeos
+edition title: Patrologia Latina 157
+edition year: 1854
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 0535D-0672A
+URL: https://mlat.uzh.ch/
+
+author: Petrus Abelard
+title: Dialogus inter philosophum Iudaeum et Christianum
+edition title: Patrologia Latina 178
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 1611-1684D
+URL: https://mlat.uzh.ch/
+
+author: Petrus Abelard
+title: Liber adversus haereses
+edition title: Patrologia Latina 178
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 1823A-1846D
+URL: https://mlat.uzh.ch/
+
+author: Petrus Venerabilis
+title: Adversus Iudaeos
+edition title: Patrologia Latina 189
+edition year: 1854
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 0507C-0650B
+URL: https://mlat.uzh.ch/
+
+author: Petrus Venerabilis
+title: Adversus Petrobrusianos haereticos
+edition title: Patrologia Latina 189
+edition year: 1854
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 0719C-0850D
+URL: https://mlat.uzh.ch/
+
+author: Petrus Venerabilis
+title: Adversus sectam Saracenorum
+edition title: Patrologia Latina 189
+edition year: 1854
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 0661-0720B
+URL: https://mlat.uzh.ch/
+
+author: Ermengard of Béziers
+title: Contra Haereticos
+edition title: Patrologia latina 204
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1235A-72B
+URL: https://mlat.uzh.ch/
+
+author: Pseudo-Ermengard of Béziers
+title: Manifesto haeresis Albigensium et Lugdunensium
+edition title: ‘Durand de Huesca et la polémique anti-cathare'
+edition year: 1959
+editor: A. Dondaine
+publisher: -
+journal: Archivum Fratrum Praedicatorum
+pages: 268-271
+URL: -
+
+author: Alain of Lille
+title: Contra haereticos
+edition title: Patrologia Latina 210
+edition year: -
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 0305A-0430A
+URL: https://mlat.uzh.ch/
+
+author: Anonymous
+title: Attendite a falsis prophetis
+manuscript signum: St Florian MS XI 152
+folios: 48v-50v
+
+author: Anonymous
+title: Disputatio inter Catholicum et Paterinum hereticum
+edition title: Disputatio inter catholicum et paterinum hereticum: die Auseinandersetzung der katholischen Kirche mit den italienischen Katharern im Spiegel einer kontroverstheologischen Streitschrift des 13. Jahrhunderts
+edition year: 2001
+editor: C. Hoécker
+publisher: SISMEL edizioni del Galluzzo
+journal: -
+pages: 3-80
+URL: -
+
+author: Anonymous
+title: Disputationes nonnullae adversus haereticos
+edition title: La eresia catara; saggio storico filosofico con in appendice
+edition year: 1920
+editor: D. Bazzocchi
+publisher: Licinio Cappelli
+journal: -
+pages: i-ccx
+URL: -
+
+author: Anonymous of Passau
+title: Tractatus de erroribus hereticorum
+edition title: A critical edition of the treatise on heresy ascribed to Pseudo-Reinerius, with an historical introduction
+edition year: 1962
+editor: M. A. E. Nickson
+publisher: Queen Mary, University of London
+journal: -
+pages: 1-154
+URL: -
+
+author: Augustine of Hippo
+title: Contra duas epistulas Pelagianorum
+edition title: CSEL 60
+edition year: 1913
+editor: Karl F. Vrba
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra epistulam Fundamenti
+edition title: CSEL 25.1
+edition year: 1891
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Faustum Manichaeum
+edition title: Patrologia Latina 42
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 0208-0518
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Gaudentium Donatistarum Episcopum
+edition title: Patrologia Latina 43
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 0708-0752
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De Haeresibus
+edition title: Patrologia Latina 42
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 0022-0050
+URL: https://mlat.uzh.ch/
+
+author: n.a.
+title: Bible
+edition title: Vulgata Clementina
+edition year: 2006
+editor: Vulsearch, The Clementine Text Project
+publisher: -
+journal: -
+pages: -
+URL: http://vulsearch.sourceforge.net/
+
+author: Durand of Huesca
+title: Liber antiheresis
+edition title: Die ersten Waldenser: mit Edition des Liber antiheresis des Durandus von Osca 2
+edition year: 1967
+editor: K.-V. Selge
+publisher: De Gruyter
+journal: -
+pages: 3-257
+URL: -
+
+author: Durand of Huesca
+title: Liber contra Manicheos
+edition title: Une somme anti-cathare: le Liber contra Manicheos de Durand de Huesca
+edition year: 1964
+editor: C. Thouzellier
+publisher: Spicilegium sacrum Lovaniense
+journal: -
+pages: 67–336
+URL: -
+
+author: Hermannus de Scildis
+title: Tractatus contra haereticos negantes immunitatem et iurisdictionem sanctae Ecclesiae
+edition title: Hermanni de Scildis O.S.A.: tractatus contra haereticos negantes immunitatem et iurisdictionem sanctae Ecclesiae et Tractatus de conceptione gloriosae virginis Mariae
+edition year: 1970
+editor: A. Zumkeller
+publisher: Augustinus-Verlag
+journal: -
+pages: 3-108
+URL: -
+
+author: Moneta of Cremona
+title: Summa adversus Catharos et Valdenses
+edition title: Monetae Adversus Catharos et Valdenses: libri quinque
+edition year: 1743
+editor: T. Ricchini
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Peter von Pillischdorf
+title: Contra Pauperes de Ludguno
+edition title: Maxima Bibliotheca Veterum Patrum 25
+edition year: 1677
+editor: J. Gretser
+publisher: -
+journal: -
+pages: 299E-302F
+URL: -
+
+author: Pseudo-David of Augsburg
+title: Tractatus de inquisitione hereticorum
+edition title: Der Tractat des David von Augsburg über die Waldesier
+edition year: 1879
+editor: W. Preger
+publisher: -
+journal: -
+pages: 203-235
+URL: -
+
+author: Salvo Burci
+title: Liber Suprastella
+edition title: Liber Suprastella
+edition year: 2002
+editor: C. Bruschi
+publisher: Istituto storico italiano per il Medio Evo
+journal: -
+pages: -
+URL: -
+
+author: Wasmud von Homburg
+title: Tractatus contra Hereticos Bekardos, Lulhardos et Swestriones
+edition title: Tractatus contra hereticos Beckardos, Lulhardos et Swestriones des Wasmud von Homburg. Archiv für mittelrheinische Kirchengeschichte 14
+edition year: 1962
+editor: A. Schmidt
+publisher: -
+journal: Archiv für mittelrheinische Kirchengeschichte 14
+pages: 336-386
+URL: -
+
+author: Petrus Zwicker
+title: Cum dormirent homines
+edition title: Maxima Bibliotheca Veterum Patrum 25
+edition year: 1677
+editor: J. Gretser
+publisher: -
+journal: -
+pages: 277F–299G
+URL: -
+
+author: Petrus Zwicker
+title: Refutatio errorum, redaction 1
+manuscript_signum: Vienna, ÖNB, MS 1588
+folios: 191r-211v
+
+author: Isidore of Sevilla
+title: Etymologiae
+edition title: Etymologiarum sive originum libri XX
+edition year: 1911
+editor: Wallace M. Lindsay
+publisher: Typographeo Clarendoniano;
+journal: -
+pages: -
+URL: -
+
+author: Isidore of Sevilla
+title: Sententiarum libri tres
+edition title: Patrologia Latina 83
+edition year: 1850
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 537D-738B
+URL: https://mlat.uzh.ch/
+
+author: Anonymous
+title: Liber scintillarum
+edition title: Patrologia Latina 88
+edition year: 1850
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 597D-718A
+URL: -
+
+author: Halitgarius Cameracensis
+title: De vitiis et virtutibus
+edition title: Patrologia Latina 105
+edition year: 1831
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 652D-694B
+URL: https://mlat.uzh.ch/
+
+author: Pseudo-Haymo Halberstatensis
+title: De varietate librorum
+edition title: Patrologia Latina 118
+edition year: 1852
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 875A-958D
+URL: https://mlat.uzh.ch/
+
+author: Smaragdus of St Mihiel
+title: Diadema monachorum
+edition title: Patrologia Latina 102
+edition year: 1851
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 593C-690A
+URL: https://mlat.uzh.ch/browser/8733
+
+author: Paschasius Radbertus
+title: De fide, spe et charitate
+edition title: Patrologia Latina 120
+edition year: 1852
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1387A-1490A
+URL: https://mlat.uzh.ch/
+
+author: Othlonus Ratisponensis
+title: Liber proverbiorum
+edition title: Patrologia Latina 146
+edition year: 1853
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 299B-338A
+URL: https://mlat.uzh.ch/
+
+author: Eckbert von Schönau
+title: Sermones XIII adversus Catharos
+edition title: Patrologia Latina 195
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 13-98
+URL: https://mlat.uzh.ch/
+
+author: Hugo Rothomagensis
+title: Dialogorum libri VII
+edition title: Patrologia Latina 192
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1137-1152
+URL: https://mlat.uzh.ch/
+
+author: Hugo Rothomagensis
+title: Contra haereticos
+edition title: Patrologia Latina 192
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1255-1298
+URL: https://mlat.uzh.ch/
+
+author: Petrus Venerabilis
+title: Epistolae
+edition title: Patrologia Latina 189
+edition year: 1854
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 61D-472B
+URL: https://mlat.uzh.ch/
+
+author: Petrus Venerabilis
+title: De miraculis
+edition title: Patrologia Latina 189
+edition year: 1854
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 851A-954A
+URL: https://mlat.uzh.ch/
+
+author: Jerome
+title: Adversus Jovinianum
+edition title: Patrologia Latina 23
+edition year: 1845
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 207-338
+URL: https://mlat.uzh.ch/
+
+author: Paschasius Radbertus
+title: Liber de corpore et sanguine Domini
+edition title: Patrologia Latina 120
+edition year: 1852
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1255C-1350D
+URL: https://mlat.uzh.ch/
+
+author: Anonymous
+title: Quaestio de sacramentis hereticorum
+edition title: Monumenta Germaniae Historica
+edition year: 1897
+editor: Ernst Dümmler
+publisher: Hahn
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Alger de Liège
+title: De sacramentis
+edition title: Patrologia Latina 180
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 739-854C
+URL: https://mlat.uzh.ch/
+
+author: Auctores varii
+title: Acta synodi Atrebatensis
+edition title: Patrologia Latina 142
+edition year: 1854
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1269-1312
+URL: https://mlat.uzh.ch/
+
+author: Bernard of Clairvaux
+title: Sermones in Cantica canticorum
+edition title: Patrologia Latina 183
+edition year: 1854
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 785A-1198A
+URL: https://mlat.uzh.ch/
+
+author: Guitmundus Aversanus
+title: De corporis et sanguinis Christi veritate
+edition title: Patrologia Latina 149
+edition year: 1853
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1427A-1494D
+URL: https://mlat.uzh.ch/browser/10305
+
+author: Petrus Damianus
+title: Epistolae
+edition title: Patrologia Latina 144
+edition year: 1853
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 205-497
+URL: https://mlat.uzh.ch/
+
+author: Raynerius Sacconi
+title: Summa de Catharis
+edition title: Raynerius Sacconi O.P., Summa de catharis.
+edition year: 1974
+editor: F. Šanjek
+publisher: -
+journal: Archivum Fratrum Praedicatorum 44
+pages: 42-60
+URL: -
+
+author: Anonymous
+title: Brevis summula contra errores notatos hereticorum
+edition title: La somme des autorités à l'usage des prédicateurs méridionaux au XIIIe siècle
+edition year: 1891
+editor: C. Douais
+publisher: Picard
+journal: -
+pages: 114-143
+URL: -
+
+author: Anonymous
+title: De heresi catharorum in Lombardia
+edition title: La hiérarchie cathare en Italie I
+edition year: 1949
+editor: A. Dondaine
+publisher: -
+journal: Archivum Fratrum Praedicatorum 19
+pages: 306-312
+URL: -
+
+author: Peter Lombard
+title: Sententiae
+edition title: Patrologia Latina 195
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 519-964
+URL: https://mlat.uzh.ch/
+
+author: Irenaeus of Lyon
+title: Adversus haereses
+edition title: Sancti Irenaei Libros quinque adversus haereses
+edition year: 1857
+editor: W. Wigan Harvey
+publisher: Cantabrigae, Typis Academicis
+journal: -
+pages: -
+URL: -
+
+author: Gregorius I
+title: Dialogi
+edition title: Patrologia latina
+edition year: 1849
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 149B-0430A
+URL: https://mlat.uzh.ch/
+
+author: Caesarius of Heisterbach
+title: Dialogus miraculorum
+edition title: Caesarii Heisterbacensis Monachi ordinis cisterciensis Dialogus Miraculorum
+edition year: 1851
+editor: Josephus Strange
+publisher: J.M. Heberle
+journal: -
+pages: -
+URL: -
+
+author: Johannes Scottus Eriugena
+title: Versio operum S. Dionysii
+edition title: Patrologia Latina 122
+edition year: 1853
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1025-1194
+URL: https://mlat.uzh.ch/
+
+author: Thomas Aquinas
+title: Summa contra Gentiles
+edition title: Textum Leoninum / Corpus Thomisticum
+edition year: -
+editor: Roberto Busa; Enrique Alarcón
+publisher: -
+journal: -
+pages: -
+URL: https://www.corpusthomisticum.org/scg1001.html
+
+author: Thomas Aquinas
+title: Contra doctrinam retrahentium a religione
+edition title: Textum Leoninum / Corpus Thomisticum
+edition year: -
+editor: Roberto Busa; Enrique Alarcón
+publisher: -
+journal: -
+pages: -
+URL: https://www.corpusthomisticum.org/ocr.html
+
+author: Thomas Aquinas
+title: Contra errores Graecorum
+edition title: Textum Leoninum / Corpus Thomisticum
+edition year: -
+editor: Roberto Busa; Enrique Alarcón
+publisher: -
+journal: -
+pages: -
+URL: https://www.corpusthomisticum.org/oce.html
+
+author: Thomas Aquinas
+title: Liber contra impugnantes Dei cultum et religionem
+edition title: Textum Leoninum / Corpus Thomisticum
+edition year: -
+editor: Roberto Busa; Enrique Alarcón
+publisher: -
+journal: -
+pages: -
+URL: https://www.corpusthomisticum.org/oci0.html
+
+author: Thomas Aquinas
+title: Liber de perfectione spiritualis vitae
+edition title: Textum Leoninum / Corpus Thomisticum
+edition year: -
+editor: Roberto Busa; Enrique Alarcón
+publisher: -
+journal: -
+pages: -
+URL: https://www.corpusthomisticum.org/oap.html
+
+author: Augustine of Hippo
+title: De vera religione
+edition title: Patrologia Latina 34
+edition year: 1941
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 122-172
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De fide et symbolo
+edition title: CSEL 41
+edition year: 1900
+editor: Joseph Zycha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De civitate Dei
+edition title: CSEL 40
+edition year: 1900
+editor: Joseph Zycha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: In Epistolam Ioannis tractatus
+edition title: Patrologia Latina 35
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1977-2062
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De Baptismo
+edition title: CSEL 51
+edition year: 1908
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Epistolae 1
+edition title: CSEL 34.1
+edition year: 1895
+editor: Alois Goldbacher
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Epistolae 2
+edition title: CSEL 34.2
+edition year: 1898
+editor: Alois Goldbacher
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Enarrationes in Psalmos 2
+edition title: Patrologia Latina 37
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1034-1966
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Enarrationes in Psalmos 1
+edition title: Patrologia Latina 36
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 68-1027
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: In Joannis evangelium tractatus CXXIV
+edition title: Patrologia Latina 35
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1380-1976
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De diversis queastionibus ad Simplicianum
+edition title: Patrologia Latina 40
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 102-148
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra sermonem Arianorum
+edition title: Patrologia Latina 42
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 684-708
+URL: https://mlat.uzh.ch/browser/7438
+
+author: Augustine of Hippo
+title: Contra Maximinum Arianum
+edition title: Patrologia Latina 42
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 743-814
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Julianum
+edition title: Patrologia Latina 44
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 642-874
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Psalmus contra Partem Donati
+edition title: CSEL 51
+edition year: 1908
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Epistulam Parmeniani
+edition title: CSEL 51
+edition year: 1908
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Litteras Petiliani
+edition title: CSEL 52
+edition year: 1909
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Epistula ad Catholicos de Secta Dontatistarum
+edition title: CSEL 52
+edition year: 1909
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Cresconium
+edition title: CSEL 52
+edition year: 1909
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Liber de Unico Baptismo
+edition title: CSEL 53
+edition year: 1910
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Breviculus Collationis cum Donatistis
+edition title: CSEL 53
+edition year: 1910
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/browser/14803
+
+author: Augustine of Hippo
+title: Contra Partem Donati post Gesta
+edition title: CSEL 53
+edition year: 1910
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Sermo ad Caesariensis Ecclesiae Plebem
+edition title: CSEL 53
+edition year: 1910
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Gesta cum Emerito Donastistarum Episcopo
+edition title: CSEL 53
+edition year: 1910
+editor: Michael Petschenig
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/browser/14985
+
+author: Augustine of Hippo
+title: Confessiones
+edition title: CSEL 33
+edition year: 1896
+editor: Pius Knoell
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De moribus Ecclesiae
+edition title: Patrologia Latina 32
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1309-1378
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De duabus animabus
+edition title: CSEL 25.1
+edition year: 1891
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De libero arbitrio
+edition title: Patrologia Latina 32
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1221-1310
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Fortunatum
+edition title: CSEL 25.1
+edition year: 1891
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Adimantum
+edition title: CSEL 25.1
+edition year: 1891
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+
+author: Augustine of Hippo
+title: Contra Secundinum
+edition title: CSEL 25.2
+edition year: 1892
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Felicem
+edition title: CSEL 25.2
+edition year: 1892
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De Natura Boni
+edition title: CSEL 25.2
+edition year: 1892
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De utilitate credendi
+edition title: CSEL 25.1
+edition year: 1891
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De agone Christiano
+edition title: CSEL 41
+edition year: 1900
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De bodo viduitatis
+edition title: CSEL 41
+edition year: 1900
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De cura pro mortuis gerenda
+edition title: CSEL 41
+edition year: 1900
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra adversarium legis et prophetarum
+edition title: Patrologia Latina
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 603-666
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Adversus Judaeos
+edition title: Patrologia Latina 42
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 51-64
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De natura et gratia
+edition title: CSEL 60
+edition year: 1913
+editor: Joseph Zicha
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: De gratia Christi
+edition title: CSEL 42
+edition year: 1902
+editor: Karl Vrba
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Contra Priscillianistas et Origenistas
+edition title: Patrologia Latina 42
+edition year: 1841
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 670-678
+URL: https://mlat.uzh.ch/
+
+author: Tertullian
+title: Adversus omnes haereses
+edition title: CSEL 47
+edition year: 1906
+editor: Aemilius Kroymann
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Tertullian
+title: De preascriptionibus adversus haereticos
+edition title: Patrologia Latina 2
+edition year: 1844
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 9A-74A
+URL: https://mlat.uzh.ch/
+
+author: Ambrose of Milan
+title: De fide
+edition title: Patrologia Latina 16
+edition year: 1845
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 527A-698C
+URL: https://mlat.uzh.ch/
+
+author: Ambrose of Milan
+title: De officiis
+edition title: Patrologia Latina 16
+edition year: 1845
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 23A-184B
+URL: https://mlat.uzh.ch/
+
+author: Boethius
+title: De consolatione Philosophiae
+edition title: CSEL 67
+edition year: 1934
+editor: Guilelmus Weinberger
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Bernard Gui
+title: Practica Inquisitionis
+edition title: Practica Inquisitionis heretice pravitatis
+edition year: 1886
+editor: C. Douais
+publisher: A. Picard
+journal: -
+pages: -
+URL: -
+
+author: Anonymous
+title: Qualiter respondendum illis
+edition title: Les hérétiques du Midi au XIIIe siècle. Cinq pièces inédites
+edition year: 1891
+editor: C. Douais
+publisher: -
+journal: Annales du Midi 3
+pages: 369-370
+URL: -
+
+author: Anonymous
+title: Detestandi sunt in heresi pertinaces
+edition title: Les hérétiques du Midi au XIIIe siècle. Cinq pièces inédites
+edition year: 1891
+editor: C. Douais
+publisher: -
+journal: Annales du Midi 3
+pages: 370-375
+URL: -
+
+author: Jacobus de Voragine
+title: Legenda Aurea
+edition title: Legenda Aurea, vulgo Historia Lombardica dicta
+edition year: 1890
+editor: Th. Graesse
+publisher: G. Koebner
+journal: -
+pages: -
+URL: -
+
+author: Stephen of Bourbon
+title: Tractatus de diversiis materiis predicabilibus
+edition title: Anecdotes historiques, légendes et apologues
+edition year: 1877
+editor: A. Lecoy de la Marche
+publisher: Renouard
+journal: -
+pages: -
+URL: -
+
+author: Henry Harrer
+title: Tractatus contra begardos
+edition title: Henry Harrer's Tractatus contra begardos
+edition year: 2015
+editor: Tomasz Gałuszka
+publisher: Dominikański Instytut Historyczny w Krakowie
+journal: -
+pages: -
+URL: -
+
+author: Gratian
+title: Decretum
+edition title: Corpus iuris canonici I
+edition year: 1955
+editor: E. Friedberg; E.L. Richter
+publisher: Akademische Druck- u. Verlagsanstalt
+journal: -
+pages: -
+URL: -
+
+author: Bernard of Clairvaux
+title: Sermones in diversis
+edition title: Patrologia Latina 183
+edition year: 1854
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 537A-748C
+URL: https://mlat.uzh.ch/
+
+author: Berthold von Regensburg
+title: Sermones
+edition title: Predigt gegen Ketzer - Studien zu den lateinischen Sermones Bertholds von Regenburg
+edition year: 2011
+editor: Ariane Czerwon
+publisher: Mohr Siebeck
+journal: -
+pages: 203-233
+URL: -
+
+author: Gregorius I
+title: Homiliae in Evangelia
+edition title: Patrologia latina 76
+edition year: 1849
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 1057A-1312C
+URL: https://mlat.uzh.ch/
+
+author: Gregorius I
+title: Homiliae in Ezechielem
+edition title: Patrologia latina 76
+edition year: 1849
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 785A-1072C
+URL: https://mlat.uzh.ch/
+
+author: Gregorius I
+title: Moralia I
+edition title: Patrologia latina 75
+edition year: 1849
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 509D-1162B
+URL: https://mlat.uzh.ch/
+
+author: Gregorius I
+title: Moralia II
+edition title: Patrologia latina 76
+edition year: 1849
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 9A-782A
+URL: https://mlat.uzh.ch/
+
+author: Varia
+title: Liber Sextus etc.
+edition title: Corpus Iuris Canonici II
+edition year: 1955
+editor: E. Friedberg; E.L. Richter
+publisher: Akademische Druck- u. Verlagsanstalt
+journal: -
+pages: -
+URL: -
+
+author: Alain of Lille
+title: Anticlaudianus
+edition title: Patrologia Latina 210
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 483-576
+URL: https://mlat.uzh.ch/
+
+author: Alain of Lille
+title: De planctu naturae
+edition title: Patrologia Latina 210
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 431-482
+URL: https://mlat.uzh.ch/
+
+author: Alain of Lille
+title: Distinctiones dictionum theologicalium
+edition title: Patrologia Latina 210
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 685-1011
+URL: https://mlat.uzh.ch/
+
+author: Jerome
+title: Epistolae
+edition title: Patrologia Latina 22
+edition year: 1845
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 325-1124
+URL: https://mlat.uzh.ch/
+
+author: Jerome
+title: In Hieremiam Prophetam
+edition title: CSEL 59
+edition year: 1913
+editor: Sigfried Reiter
+publisher: -
+journal: -
+pages: -
+URL: https://mlat.uzh.ch/
+
+author: Jerome
+title: Dialogus contra Luciferianos
+edition title: Patrologia Latina 23
+edition year: 1845
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 153-182
+URL: https://mlat.uzh.ch/
+
+author: Jerome
+title: Dialogus contra Pelagianos
+edition title: Patrologia Latina 23
+edition year: 1845
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 493-590
+URL: https://mlat.uzh.ch/
+
+author: Bonacursus
+title: Manifestatio haeresis Catharorum
+edition title: Patrologia Latina 204
+edition year: 1855
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 775A-792D
+URL: https://mlat.uzh.ch/
+
+author: Andreas Florentinus
+title: Summa contra haereticos
+edition title: Monumenta Germaniae Historica, QQ zur Geistesgesch. 23
+edition year: 2008
+editor: Gerhard Rottenwöhrer
+publisher: Hansche Buchhandlung
+journal: -
+pages: -
+URL: https://www.dmgh.de/
+
+author: Anonymous
+title: Summa contra haereticos [Summa IV]
+edition title: La somme des autorités à l'usage des prédicateurs méridionaux au XIIIe siècle
+edition year: 1891
+editor: C. Douais
+publisher: Picard
+journal: -
+pages: 67-112
+URL: -
+
+author: Peter of Verona
+title: Summa contra haereticos
+edition title: Medium aevum monographs
+edition year: 2020
+editor: Donald S. Prudlo
+publisher: The Society for the Study of Modern Languages and Literature
+journal: -
+pages: -
+URL: -
+
+author: Jacques de Vitry
+title: Exempla 1
+edition title: The exempla or illustrative stories from the Sermones vulgares of Jacques de Vitry
+edition year: 1890
+editor: Thomas F. Crane
+publisher: Folklore Society
+journal: -
+pages: -
+URL: -
+
+author: Jacques de Vitry
+title: Exempla 2
+edition title: Die Exempla aus den Sermones feriales et communes des Jakob von Vitry
+edition year: 1914
+editor: Joseph Greven
+publisher: C. Winter
+journal: -
+pages: -
+URL: -
+
+author: Gerardus de Fracheto
+title: Vitae fratrum
+edition title: MOPH 1
+edition year: 1896
+editor: B.M. Reichert
+publisher: -
+journal: -
+pages: -
+URL: -
+
+author: Thomas Aquinas
+title: Summa Theologiae
+edition title: Textum Leoninum / Corpus Thomisticum
+edition year: -
+editor: Roberto Busa; Enrique Alarcón
+publisher: -
+journal: -
+pages: -
+URL: https://www.corpusthomisticum.org/sth0000.html
+
+author: Varia
+title: Liber Extra, Decretalium Gregorii papae IX compilationis libri V
+edition title: Corpus Iuris Canonici II/Bibliotheca Augustana
+edition year: 1888
+editor: E. Friedberg; E.L. Richter; Angus Graham
+publisher: -
+journal: -
+pages: -
+URL: http://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/GregoriusIX/gre_0000.html#1
+
+author: Varia
+title: Lateran III, Canones
+edition title: Decrees of the Ecumenical Councils I
+edition year: 1990
+editor: Norman P. Tanner
+publisher: Georgetown University Press
+journal: -
+pages: 205-226
+URL: -
+
+author: Varia
+title: Lateran IV, Canones
+edition title: Decrees of the Ecumenical Councils I
+edition year: 1990
+editor: Norman P. Tanner
+publisher: Georgetown University Press
+journal: -
+pages: 227-272
+URL: -
+
+author: Varia
+title: Lyons I, Canones
+edition title: Decrees of the Ecumenical Councils I
+edition year: 1990
+editor: Norman P. Tanner
+publisher: Georgetown University Press
+journal: -
+pages: 273-302
+URL: -
+
+author: Varia
+title: Lyons II, Canones
+edition title: Decrees of the Ecumenical Councils I
+edition year: 1990
+editor: Norman P. Tanner
+publisher: Georgetown University Press
+journal: -
+pages: 303-332
+URL: -
+
+author: Varia
+title: Vienne, Canones
+edition title: Decrees of the Ecumenical Councils I
+edition year: 1990
+editor: Norman P. Tanner
+publisher: Georgetown University Press
+journal: -
+pages: 333-402
+URL: -
+
+author: William of Auvergne
+title: Opera Omnia I
+edition title: Opera Omnia I
+edition year: 1674
+editor: -
+publisher: ex tip. F. Hotot
+journal: -
+pages: -
+URL: -
+
+author: Humbertus de Romanis
+title: Liber de predicatione sct. crucis
+edition title: Humbertus de Romanis OP, Liber de predicatione sct. Crucis
+edition year: 2007
+editor: Kurt Villads Jensen
+publisher: -
+journal: -
+pages: -
+URL: https://www.jggj.dk/saracenos.htm
+
+author: Lucas Tudensis
+title: De altera vita
+edition title: Corpus Christianorum, Continuatio Mediaevalis
+edition year: 2009
+editor: Emma Falque Rey
+publisher: Brepols
+journal: -
+pages: -
+URL: -
+
+author: Anonymous
+title: De confessione hereticorum et fide eorum
+edition title: Durand de Huesca et la polémique anti-cathare
+edition year: 1959
+editor: A. Dondaine
+publisher: -
+journal: Archivum Fratrum Praedicatorum 29
+pages: 272-273
+URL: -
+
+author: Ardisius Placentinus
+title: De pauperibus de Lugduno
+edition title: Durand de Huesca et la polémique anti-cathare
+edition year: 1959
+editor: A. Dondaine
+publisher: -
+journal: Archivum Fratrum Praedicatorum 29
+pages: 273-274
+URL: -
+
+author: Vincent Ferrer
+title: Sermones de sanctis
+edition title: Beati Vincentii natione Hispani, ... Sermones de Sanctis
+edition year: 1570
+editor: Damianus Diaz Lusitanus
+publisher: apud Philippum Nutium
+journal: -
+pages: -
+URL: https://archive.org/details/bub_gb_ULczODnLGrsC
+
+author: John Wycliffe
+title: Sermones I
+edition title: Iohannis Wyclif Sermones
+edition year: 1887
+editor: Johann Loserth
+publisher: Wyclif society
+journal: -
+pages: -
+URL: https://archive.org/details/iohanniswyclifse0701wycl/
+
+author: John Wycliffe
+title: Sermones II
+edition title: Iohannis Wyclif Sermones
+edition year: 1888
+editor: Johann Loserth
+publisher: Wyclif society
+journal: -
+pages: -
+URL: https://archive.org/details/iohanniswyclifse02wycl/mode/2up
+
+author: John Wycliffe
+title: Sermones IV
+edition title: Iohannis Wyclif Sermones
+edition year: 1890
+editor: Johann Loserth
+publisher: Wyclif society
+journal: -
+pages: -
+URL: https://archive.org/details/iohanniswyclifse0704wycl/page/n3/mode/2up
+
+author: John Wycliffe
+title: Sermones III
+edition title: Iohannis Wyclif Sermones
+edition year: 1889
+editor: Johann Loserth
+publisher: Wyclif society
+journal: -
+pages: -
+URL: https://archive.org/details/iohanniswyclifse0703wycl/
+
+author: Bonaventura
+title: Sermones
+edition title: Doctoris seraphici S. Bonaventurae opera omnia
+edition year: 1901
+editor: David Fleming
+publisher: Collegium S. Bonaventurae
+journal: -
+pages: -
+URL: https://archive.org/details/doctorisseraphic09bona/page/n7/mode/2up
+
+author: Bonaventura
+title: Opuscula varia
+edition title: Doctoris seraphici S. Bonaventurae opera omnia
+edition year: 1891
+editor: Aloysius a Parma
+publisher: Collegium S. Bonaventurae
+journal: -
+pages: -
+URL: https://archive.org/details/doctorisseraphic05bona/
+
+author: Peter Abelard
+title: Sermones
+edition title: Patrologia Latina 178
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 379A-610D
+URL: https://mlat.uzh.ch/
+
+author: Petrus Venerabilis
+title: Sermones
+edition title: Patrologia Latina 189
+edition year: 1854
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 353B-1006A
+URL: https://mlat.uzh.ch/
+
+author: Aelred of Rievaulx
+title: Sermones de tempore
+edition title: Patrologia Latina 195
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: A209A-360D
+URL: https://mlat.uzh.ch/
+
+author: Innocent III
+title: Sermones communes
+edition title: Patrologia Latina 217
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 595D-650A
+URL: https://mlat.uzh.ch/
+
+author: Innocent III
+title: Sermones de diversis
+edition title: Patrologia Latina 217
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 649B-690D
+URL: https://mlat.uzh.ch/
+
+author: Innocent III
+title: Sermones de sanctis
+edition title: Patrologia Latina 217
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 451A-596C
+URL: https://mlat.uzh.ch/
+
+author: Innocent III
+title: Sermones de tempore
+edition title: Patrologia Latina 217
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 313A-450D
+URL: https://mlat.uzh.ch/
+
+author: Petrus Damianus
+title: Sermones
+edition title: Patrologia Latina 144
+edition year: 1853
+editor: J.P. Migne
+publisher: -
+journal: -
+pages: 505C-924D
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Sermones 1
+edition title: Patrologia Latina 46
+edition year: 1842
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 946-1004
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Sermones de Sanctis
+edition title: Patrologia Latina 38
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 1248-1483
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Sermones de Scripturis
+edition title: Patrologia Latina 38
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 24-994
+URL: https://mlat.uzh.ch/
+
+author: Augustine of Hippo
+title: Sermones de diversis
+edition title: Patrologia Latina 39
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 1494-1638
+URL: https://mlat.uzh.ch/
+
+author: Auctor incertus (Augustine?)
+title: Sermones suppositii de Sanctis
+edition title: Patrologia Latina 39
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 2095-2172
+URL: https://mlat.uzh.ch/
+
+author: Auctor incertus (Augustine?)
+title: Sermones dubii
+edition title: Patrologia Latina 39
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 1639-1718
+URL: https://mlat.uzh.ch/
+
+author: Auctor incertus (Augustine?)
+title: Sermones suppositii de Scripturis
+edition title: Patrologia Latina 39
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 1735-1972
+URL: https://mlat.uzh.ch/
+
+author: Auctor incertus (Augustine?)
+title: Sermones suppositii de diversis
+edition title: Patrologia Latina 39
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 2174-2354
+URL: https://mlat.uzh.ch/
+
+author: Auctor incertus (Augustine?)
+title: Sermones suppositii de tempore
+edition title: Patrologia Latina 39
+edition year: 1841
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 1973-2096
+URL: https://mlat.uzh.ch/
+
+author: Lucifer Calaritanus
+title: De non conveniendo cum haereticis
+edition title: CSEL 14
+edition year: 1886
+editor: Wilhelm von Hartel
+publisher: -
+journal: -
+pages: 1973-2096
+URL: https://mlat.uzh.ch/
+
+author: Gebeno Eberbacensis
+title: De eisdem hereticis ex Apocalipsi
+edition title: De eisdem hereticis ex Apocalipsi et de septem temporibus a praedicatione Christi usque in finem seculi
+edition year: 2004
+editor: José Carlos Santos Paz
+publisher: SISMEL.Edizioni del Galluzzo
+journal: -
+pages: 1973-2096
+URL: -
+
+author: Stephanus de Sancto Georgio
+title: Reprobatio nefandi sermonis [--] de quodam Nemine heretico et dampnato
+edition title: Archiv für Literatur- und Kirchengeschichte des Mittelalters
+edition year: 1888
+editor: Franz Ehrle
+publisher: Herder'sche Buchhandlung
+journal: -
+pages: 340-348
+URL: https://mlat.uzh.ch/
+
+author: Hugo Eterianus
+title: De haeresibus Graecorum
+edition title: Patrologia Latina 202
+edition year: 1855
+editor: J. P. Migne
+publisher: -
+journal: -
+pages: 227-396D
+URL: https://mlat.uzh.ch/
+
+author: Guillelmus Peraldus
+title: Summa de virtutibus
+edition title: Summae virtutum ac vitiorum I
+edition year: 1546
+editor: -
+publisher: sub scuto Coloniensi
+journal: -
+pages: -
+URL: https://archive.org/details/SummaVirtutumAcVitiorum15461/
+
+author: Guillelmus Peraldus
+title: Summa de vitiis
+edition title: Summae virtutum ac vitiorum II
+edition year: 1546
+editor: -
+publisher: sub scuto Coloniensi
+journal: -
+pages: -
+URL: https://archive.org/details/SummaVirtutumAcVitiorum15462/
+
+author: Albertus Magnus
+title: Sermones
+edition title: Beati Alberti Magni [-] Sermones
+edition year: 1883
+editor: Petrus Jammy
+publisher: E. Privat
+journal: -
+pages: -
+URL: https://archive.org/details/sermones00albe/
+
+author: Anonymous
+title: Summula contra hereticos
+edition title: Summula contra hereticos. Un traite contre les cathares du xiiieme siecle
+edition year: 1987
+editor: Jean Duvernoy
+publisher: -
+journal: -
+pages: -
+URL: http://jean.duvernoy.free.fr/text/pdf/summula.pdf
+
+author: Hugo Eterianus
+title: Contra Patarenos
+edition title: Hugh Eteriano: Contra Patarenos
+edition year: 2004
+editor: SarahHamilton
+publisher: Brill
+journal: -
+pages: 155-176
+URL: -
+
