@@ -11,3 +11,5 @@ This article explores the extent to which medieval polemical authors resorted to
 
 
 This study is part of the project titled “Causalities of Polemics and Persecution in Late Medieval Europe” (PERSECUTIO, https://sites.utu.fi/persecutio/), funded by the Research Council of Finland (Academy Fellowship 2023–2027, grant number 356086). This research was also supported by the Turku Institute for Advanced Studies postdoctoral fellowship (2020–2022).
+
+Data shared with CC BY 4.0 License, https://creativecommons.org/licenses/by/4.0/deed.en
